@@ -1,0 +1,19 @@
+WAV/mid/jiaotongdaxue.wav MFCC/mid-jiaotongdaxue.mfc
+WAV/mid/jiaotongdaxuezan.wav MFCC/mid-jiaotongdaxuezan.mfc
+WAV/mid/jiaotongdadui.wav MFCC/mid-jiaotongdadui.mfc
+WAV/mid/jiaotongdaduilan.wav MFCC/mid-jiaotongdaduilan.mfc
+WAV/mid/xinhaochuli.wav MFCC/mid-xinhaochuli.mfc
+WAV/mid/yuyinxinhao.wav MFCC/mid-yuyinxinhao.mfc
+WAV/mid/yuyinchuli.wav MFCC/mid-yuyinchuli.mfc
+
+WAV/fast/jiaotongdaxue.wav MFCC/fast-jiaotongdaxue.mfc
+WAV/fast/jiaotongdadui.wav MFCC/fast-jiaotongdadui.mfc
+WAV/fast/xinhaochuli.wav MFCC/fast-xinhaochuli.mfc
+WAV/fast/yuyinxinhao.wav MFCC/fast-yuyinxinhao.mfc
+WAV/fast/yuyinchuli.wav MFCC/fast-yuyinchuli.mfc
+
+WAV/slow/jiaotongdaxue.wav MFCC/slow-jiaotongdaxue.mfc
+WAV/slow/jiaotongdadui.wav MFCC/slow-jiaotongdadui.mfc
+WAV/slow/xinhaochuli.wav MFCC/slow-xinhaochuli.mfc
+WAV/slow/yuyinxinhao.wav MFCC/slow-yuyinxinhao.mfc
+WAV/slow/yuyinchuli.wav MFCC/slow-yuyinchuli.mfc
